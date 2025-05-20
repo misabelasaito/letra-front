@@ -15,12 +15,6 @@
 
 ---
 
-## 📸 Prévia da Interface
-
-![Prévia do site](site.png) <!-- substitua com um print do site ou remova se não houver -->
-
----
-
 ## 🚀 Como Usar
 
 1. Clone o repositório:
