@@ -19,7 +19,7 @@ form.addEventListener('submit', async (e) => {
   }
 
   try {
-    const response = await fetch('http://localhost:5000/buscar', {
+    const response = await fetch('https://letra-back.vercel.app/buscar', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
